@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ReadyToGoApplication<readyToGo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.setgo.readyToGo.ReadyToGoApplication",
+            "projectName": "readyToGo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
